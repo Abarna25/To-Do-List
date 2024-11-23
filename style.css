@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://www.thebookrefinery.com/wp-content/uploads/2017/08/spiral-notebook-e1503487298981.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: rgb(101, 164, 175);
+  
+}
+.container{
+    margin-top: 10%;
+    text-align: center;
+    color: black;
+    margin-left: 55%;
+    background-color: rgb(124, 195, 207);
+    padding: 5px;
+    width: 42%;
+    border-radius: 10px;
+}
+.task{
+    height: 20px;
+    width: 40%;
+    margin-bottom: 15px;
+    background-color: rgb(241, 229, 229);
+    border: black solid 2px;
+}
+#submit{
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+}.deadline{
+    height: 20px;
+    width: 40%;
+    margin-bottom: 15px;
+    background-color:  rgb(241, 229, 229);
+    border: black solid 2px;
+}
+.overlay{
+    width: 22%;
+    margin-left: 13%;
+   
+}
+.text{
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 0.5px;
+    color: white;
+    display:block;
+    margin-bottom: 5px ;
+    padding-left: 15px;
+    font-size: 100%;
+}
+.delete{
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    size: 10%;
+}
+.edit{
+    margin-left: 17px;
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    size: 10%;
+}
